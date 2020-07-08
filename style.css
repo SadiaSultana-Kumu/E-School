@@ -18,3 +18,10 @@ body{
 .about{
     margin-bottom: 50px;
 }
+
+.buttons{
+    border-radius: 50px;
+    width: 120px;
+    height: 40px;
+    padding: 5px;
+}
