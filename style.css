@@ -13,6 +13,7 @@ body{
 .col-md-2:hover{
     box-shadow: 5px 5px 5px 5px lightgray;
     background-color: white;
+    transform: translate(0, -5px);
 }
 
 .about{
