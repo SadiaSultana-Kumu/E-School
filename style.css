@@ -6,11 +6,11 @@ body{
     background-color: rgb(237, 250, 245);
 }
 
-.col-md-2{
+.about-card{
     background-color: rgb(237, 250, 245);
     border-radius: 10px;
 }
-.col-md-2:hover{
+.about-card:hover{
     box-shadow: 5px 5px 20px 5px lightgray;
     background-color: white;
     transform: translate(0, -5px);
@@ -43,5 +43,12 @@ body{
     height: 30px;
 }
 .lorem{
+    font-size: x-large;
+}
+
+#footer-section{
+    background-color: black;
+}
+.fp{
     font-size: x-large;
 }
