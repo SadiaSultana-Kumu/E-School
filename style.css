@@ -3,21 +3,22 @@ body{
     height: 100%;
 }
 .banner-bg{
-    background-color: rgb(230, 252, 244);
+    background-color: rgb(237, 250, 245);
 }
 
 .col-md-2{
-    background-color: rgb(230, 252, 244);
+    background-color: rgb(237, 250, 245);
     border-radius: 10px;
 }
 .col-md-2:hover{
-    box-shadow: 5px 5px 5px 5px lightgray;
+    box-shadow: 5px 5px 20px 5px lightgray;
     background-color: white;
     transform: translate(0, -5px);
 }
 
 .about{
     margin-bottom: 50px;
+    margin-top: 100px;
 }
 
 .buttons{
@@ -25,4 +26,22 @@ body{
     width: 120px;
     height: 40px;
     padding: 5px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px 5px lightgrey;
+    border-radius: 15px;
+}
+
+.card-footer{
+    border: none;
+    background: none;
+}
+.icons{
+    width: 30px;
+    height: 30px;
+}
+.lorem{
+    font-size: x-large;
 }
